@@ -1,0 +1,93 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.nav-item{
+  display: block;
+  position: relative;
+  left: 420px;
+  font-weight: bold;
+  font-size: 19px;
+  margin: 30px;
+  margin-top: 40px;
+}
+.logoimage{
+  margin: 35px;
+  margin-right: 15px; 
+}
+.navbar-brand{
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+.center {
+  font-weight: bold;
+  margin-top: -10px;
+}
+.loginimages{
+  display: block;
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 111.8rem;
+  bottom: 50px;
+}
+.loginzoin{
+  display: block;
+  position: absolute;
+  left: 110.8rem;
+  top: 5rem;
+  font-size: 12px;
+}
+.mainimage{
+  position: relative;
+  width: 1920px;
+  top: 30px;
+  border-bottom: 20px solid #FAEBD7;
+  border-top: 20px solid	#FAEBD7;
+}
+.accordion {
+  width: 50rem;
+  position: relative;
+  left: 100px;
+}
+.empty{
+  height: 10rem;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.article{
+  width: 400px;
+}
+.emptytwo{
+  height: 7rem;
+}
+.emptythree{
+  width: 1000px;
+  height: 6rem;
+  position: relative;
+  left: 300px;
+  border-bottom: 2px solid #BC8F8F;
+  margin-bottom: 50px;
+}
+.cardcontainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.card{
+  margin: 25px;
+}
+.border{
+  width: 1920px;
+  border: 1px solid black;
+  margin-bottom: 30px;
+  margin-top: 70px;
+}
+.space{
+  margin-bottom: 140px;
+}
+p{
+  text-align: center;
+}
